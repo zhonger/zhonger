@@ -1,6 +1,7 @@
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=zhonger&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+![zhonger's github stats](https://github-readme-stats.vercel.app/api?username=zhonger&show_icons=true&theme=radical)
+<!--<img align="right" src="https://github-readme-stats.vercel.app/api?username=zhonger&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />-->
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 
